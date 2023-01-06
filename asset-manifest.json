@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shiywsg/deploy-demo/static/css/main.88f51783.css",
+    "main.js": "/shiywsg/deploy-demo/static/js/main.8b1d1dd4.js",
+    "index.html": "/shiywsg/deploy-demo/index.html",
+    "main.88f51783.css.map": "/shiywsg/deploy-demo/static/css/main.88f51783.css.map",
+    "main.8b1d1dd4.js.map": "/shiywsg/deploy-demo/static/js/main.8b1d1dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f51783.css",
+    "static/js/main.8b1d1dd4.js"
+  ]
+}
